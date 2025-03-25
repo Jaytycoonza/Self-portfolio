@@ -166,7 +166,7 @@ body {
     .social-link {
       text-decoration: none;
       color: #4CAF50;
-      font-size: 20px;
+      font-size: 10px;
       display: inline-block;
       margin: 10px 0;
       transition: color 0.3s ease;
@@ -280,7 +280,7 @@ body {
   .social-link {
     text-decoration: none;
     color: #4CAF50;
-    font-size: 20px;
+    font-size: 10px;
     display: inline-block;
     margin: 10px 0;
     transition: color 0.3s ease;
