@@ -161,6 +161,7 @@ body {
     
     .social-links {
       text-align: center;
+      display: inline-flex;
     }
     
     .social-link {
@@ -275,6 +276,7 @@ body {
   
   .social-links {
     text-align: center;
+    display: inline-flex;
   }
   
   .social-link {
