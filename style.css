@@ -153,6 +153,7 @@ body {
       color: #333;
       width: 100%;
       text-align: start;
+      font-size: 15px;
     }
     
     span {
@@ -183,6 +184,7 @@ body {
     }
     h2 { 
       color: #e08e12;
+      font-size: 20px;
     }
   
     .contact-links {
