@@ -147,13 +147,17 @@ body {
     }
     
     
-    .description {
+    .description p{
       font-family: 'Roboto';
       font-weight: 600;
       color: #333;
       width: 100%;
       text-align: start;
       font-size: 15px;
+    }
+
+    .description h2 {
+      text-align: center;
     }
     
     span {
